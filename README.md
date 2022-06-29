@@ -1,4 +1,4 @@
 # lsdiLab
-Simulação em C dos trabalhos laboratoriais de LSDI do MIEEEC da FEUP.
+Simulation of digital systems laboratory work.
 
-Este projeto simula o pequeno processador feito ao longo do semestre na UC de LSDI. O código foi implementado de forma a simular o funcionamento deste processador.
+This project simulates a small processor made during my first semester at FEUP.
